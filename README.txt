@@ -48,18 +48,14 @@ Sonuç: 15
 Sonuç: 4
 Sonuç: 2
 Sonuç: 15
-Sonuç: 33
+Sonuç: 52
 Sonuç: 30
-Hata: Sıfıra bölme!
+Hata: Hata: Sıfıra bölme!
 Sonuç: Tanımsız.
-
-Hata: Sıfıra bölme!
-Sonuç: Tanımsız.
-
-Hata: Sıfıra bölme!
+Sonuç: 0
+Hata: Hata: Sıfıra bölme!
 Sonuç: Belirsiz.
-
-Hata: Sıfıra bölme!
+Hata: Hata: Sıfıra bölme!
 Sonuç: Tanımsız.
 
 # Design decisions
